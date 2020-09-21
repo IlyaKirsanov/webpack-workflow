@@ -1,5 +1,5 @@
 import React from 'react'
-import PizzaImage from '../components/PizzaImage/'
+import PizzaImage from '../components/PizzaImage/PizzaImage'
 
 class Pizza extends React.Component{
 	render(){
